@@ -6,17 +6,18 @@ This project showcases a data visualization challenge completed using Looker in 
 ✅ Creating multiple **Looks** (custom visualizations) to answer key business questions  
 ✅ **Merging datasets** from Flights and Airports for enhanced insights  
 ✅ **Building a dashboard** to present all visualizations in an interactive format  
-<br />
-
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+✅ **Looker (Google Cloud)**  
+✅ **SQL (Custom Measures, Table Calculations)**  
+✅ **Data Visualization (Tables, Bar Charts, Pivot Tables)**
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>🖥 Google Cloud Platform (Looker Instance - Temporary Credentials)
+
+</b> 
 
 <h2>Program walk-through:</h2>
 
