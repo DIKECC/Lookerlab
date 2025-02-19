@@ -1,9 +1,11 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Prepare Data for Looker Dashboards and Reports</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+This project showcases a data visualization challenge completed using Looker in Google Cloud. The objective was to analyze FAA datasets and create interactive dashboards to help a private plane and helicopter rental company determine optimal rental hub locations.  
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+**The challenge required:**  
+✅ Creating multiple **Looks** (custom visualizations) to answer key business questions  
+✅ **Merging datasets** from Flights and Airports for enhanced insights  
+✅ **Building a dashboard** to present all visualizations in an interactive format  
 <br />
 
 
