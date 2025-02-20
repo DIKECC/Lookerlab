@@ -25,16 +25,16 @@ This project showcases a data visualization challenge lab completed after taking
 📊 **Objective:** Identify states and cities with the highest number of heliports  
 📌 **Dataset:** Airports  
 🔹 **Key Metrics:** Airports Count, State, Facility Types  
-🛠 **Process:** Created a table visualization filtering only for heliports, then grouped results by City and State, sorting by the highest number of airports.  
+🛠 **Process:** I added the key matrics on the data section and filterd only for heliport  
 <p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+  <img src="https://i.imgur.com/FQln1UC.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
 
-🔹 **Final output:** Airports Count, State, Facility Types  
+🔹 **Final output:** Table visualization in descending order
 <p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+  <img src="https://i.imgur.com/DMHeZtm.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
