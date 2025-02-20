@@ -114,17 +114,24 @@ This project showcases a data visualization challenge lab completed after taking
 <br />
 <br />
 
-### **2️⃣ Facility Type Breakdown for Top States**  
-📊 **Objective:** Analyze facility type distribution in states with the most airports  
-📌 **Dataset:** Airports  
-🔹 **Key Metrics:** Airports Count, State, Facility Types  
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+### **6️⃣ Dashboard: Consolidated Insights**  
+📊 **Objective:** Combine all visualizations into a single interactive dashboard for presentation  
+📌 **Dataset:** Airports, Flights  
+
+🛠 **Process:** Added all created Looks and the merged results visualization to a new dashboard, organizing them for easy navigation and insights.  
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
-🔹 **Final output:** Airports Count, State, Facility Types  
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+
+🔹 **Final output:** Interactive dashboard with all visualizations  
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
+
 
 
 <!--
