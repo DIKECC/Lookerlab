@@ -50,7 +50,7 @@ This project showcases a data visualization challenge lab completed after taking
 ### **3️⃣ Highest Flight Cancellation Rates**  
 📊 **Objective:** Identify airports and states with the highest percentage of flight cancellations (with over 10,000 flights)  
 📌 **Dataset:** Flights  
-🔹 **Data used:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled, Flight count, Flight Details Cancelled Count   
+🔹 **Data used:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled, Flights Count, Flights Details Cancelled Count   
 🛠 **Process:** I filtered for flights exceeding 10,000, then created a table calculation to determine the cancellation percentage   
 🔹 **Final output:** Table visualization in descending order with Flight count and Flight Details Cancelled Count made invinsible    
 <p align="center">
