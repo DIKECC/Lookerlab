@@ -24,8 +24,8 @@ This project showcases a data visualization challenge lab completed after taking
 ### **1️⃣ Most Heliports by State**  
 📊 **Objective:** Identify the top 10 states and cities with the highest number of heliports  
 📌 **Dataset:** Airports  
-🔹 **Key Metrics:** Airports Count, State, Facility Types  
-🛠 **Process:** I added the key matrics on the data section, filterd only for heliport and limited to 10  
+🔹 **Data used:** Airports Count, State, Facility Types  
+🛠 **Process:** I filterd only for heliport and limited to 10  
 🔹 **Final output:** Table visualization in descending order
 <p align="center">
   <img src="https://i.imgur.com/UAmccNW.png" height="80%" width="80%" alt="Replace"/>
@@ -37,8 +37,8 @@ This project showcases a data visualization challenge lab completed after taking
 ### **2️⃣ Facility Type Breakdown for Top States**  
 📊 **Objective:** Analyze facility type distribution in states with the most airports  
 📌 **Dataset:** Airports  
-🔹 **Key Metrics:** Airports Count, State, Facility Types  
-🛠 **Process:** I added the key matrics on the data section and pivoted the facility dimension to show the distribution, sorting by the highest number of airports in each state   
+🔹 **Data used:** Airports Count, State, Facility Types  
+🛠 **Process:** I Pivoted the facility dimension to show the distribution, sorting by the highest number of airports in each state   
 🔹 **Final output:** Table visualization in descending order
 <p align="center">
   <img src="https://i.imgur.com/xehkt7M.png" height="80%" width="80%" alt="Replace"/>
@@ -50,8 +50,8 @@ This project showcases a data visualization challenge lab completed after taking
 ### **3️⃣ Highest Flight Cancellation Rates**  
 📊 **Objective:** Identify airports and states with the highest percentage of flight cancellations (with over 10,000 flights)  
 📌 **Dataset:** Flights  
-🔹 **Key Metrics:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled  
-🛠 **Process:** Applied a filter for flights exceeding 10,000, then created a table calculation to determine the cancellation percentage   
+🔹 **Data used:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled  
+🛠 **Process:** I filtered for flights exceeding 10,000, then created a table calculation to determine the cancellation percentage   
 🔹 **Final output:** Table visualization in descending order  
 <p align="center">
   <img src="https://i.imgur.com/cF4uTKv.png" height="80%" width="80%" alt="Replace"/>
