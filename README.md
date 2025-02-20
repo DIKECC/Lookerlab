@@ -19,36 +19,76 @@ This project showcases a data visualization challenge lab completed after taking
 
 </b> 
 
-<h2>Program walk-through:</h2>
+<h2>Tasks and Visualizations:</h2>
 
+### **1️⃣ Most Heliports by State**  
+📊 **Objective:** Identify states and cities with the highest number of heliports  
+📌 **Dataset:** Airports  
+🔹 **Key Metrics:** Airports Count, State, Facility Types  
+🛠 **Process:** Used a table visualization with pivoting to display the facility type distribution, sorting by the highest number of airports in each state.  
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
 </p>
+<br />
+<br />
+
+🔹 **Final output:** Airports Count, State, Facility Types  
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
+<br />
+<br />
+
+
+### **2️⃣ Facility Type Breakdown for Top States**  
+📊 **Objective:** Analyze facility type distribution in states with the most airports  
+📌 **Dataset:** Airports  
+🔹 **Key Metrics:** Airports Count, State, Facility Types  
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+<br />
+<br />
+🔹 **Final output:** Airports Count, State, Facility Types  
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+<br />
+<br />
+
+
+### **3️⃣ Highest Flight Cancellation Rates**  
+📊 **Objective:** Determine airports and states with the highest percentage of cancellations  
+📌 **Dataset:** Flights  
+🔹 **Key Metrics:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled  
+<img src="IMAGE_LINK_HERE" height="80%" width="80%" alt="Highest Flight Cancellation Rates"/>
+<br />
+<br />
+
+### **4️⃣ Smallest Average Distance Between Airports**  
+📊 **Objective:** Identify airport pairs with the shortest average flight distance  
+📌 **Dataset:** Flights  
+🔹 **Key Metrics:** Origin, Destination, Average Distance (Miles)  
+<img src="IMAGE_LINK_HERE" height="80%" width="80%" alt="Smallest Average Distance Between Airports"/>
+<br />
+<br />
+
+### **5️⃣ Busiest Major Joint-Use Airports with Control Towers**  
+📊 **Objective:** Identify the busiest airports that are major, joint-use, and have control towers  
+📌 **Dataset:** Flights & Airports (Merged)  
+🔹 **Key Metrics:** City, State, Code, Number of Flights  
+<img src="IMAGE_LINK_HERE" height="80%" width="80%" alt="Busiest Major Joint-Use Airports with Control Towers"/>
+<br />
+<br />
+
+### **2️⃣ Facility Type Breakdown for Top States**  
+📊 **Objective:** Analyze facility type distribution in states with the most airports  
+📌 **Dataset:** Airports  
+🔹 **Key Metrics:** Airports Count, State, Facility Types  
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+<br />
+<br />
+🔹 **Final output:** Airports Count, State, Facility Types  
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+<br />
+<br />
+
 
 <!--
  ```diff
