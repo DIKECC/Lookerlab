@@ -100,7 +100,17 @@ This project showcases a data visualization challenge lab completed after taking
 📊 **Objective:** Identify the busiest airports that are major, joint-use, and have control towers  
 📌 **Dataset:** Flights & Airports (Merged)  
 🔹 **Key Metrics:** City, State, Code, Number of Flights  
-<img src="IMAGE_LINK_HERE" height="80%" width="80%" alt="Busiest Major Joint-Use Airports with Control Towers"/>
+🛠 **Process:**  Merged the Flights and Airports datasets, filtering for airports marked as major, joint-use, and with control towers, then visualized the busiest ones using a bar chart. 
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
+<br />
+<br />
+
+🔹 **Final output:** Airports Count, State, Facility Types  
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
 
