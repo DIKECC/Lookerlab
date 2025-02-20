@@ -24,8 +24,8 @@ This project showcases a data visualization challenge lab completed after taking
 ### **1️⃣ Most Heliports by State**  
 📊 **Objective:** Identify the top 10 states and cities with the highest number of heliports  
 📌 **Dataset:** Airports  
-🔹 **Data used:** Airports Count, Airport State, Airport City  
-🛠 **Process:** I filterd only for heliport and limited to 10  
+🔹 **Data used:** Airports Count, Airports State, Airports City  
+🛠 **Process:** I filterd the facility type dimension, selected heliport and limited to 10  
 🔹 **Final output:** Table visualization in descending order
 <p align="center">
   <img src="https://i.imgur.com/UAmccNW.png" height="80%" width="80%" alt="Replace"/>
