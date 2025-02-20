@@ -60,12 +60,23 @@ This project showcases a data visualization challenge lab completed after taking
 
 
 ### **3️⃣ Highest Flight Cancellation Rates**  
-📊 **Objective:** Determine airports and states with the highest percentage of cancellations  
+📊 **Objective:** Identify airports and states with the highest percentage of flight cancellations (with over 10,000 flights)  
 📌 **Dataset:** Flights  
 🔹 **Key Metrics:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled  
-<img src="IMAGE_LINK_HERE" height="80%" width="80%" alt="Highest Flight Cancellation Rates"/>
+🛠 **Process:** Used a table visualization with pivoting to display the facility type distribution, sorting by the highest number of airports in each state.    
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
+
+🔹 **Final output:** Airports Count, State, Facility Types  
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
+<br />
+<br />
+
 
 ### **4️⃣ Smallest Average Distance Between Airports**  
 📊 **Objective:** Identify airport pairs with the shortest average flight distance  
