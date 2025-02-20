@@ -63,7 +63,7 @@ This project showcases a data visualization challenge lab completed after taking
 ### **4️⃣ Smallest Average Distance Between Airports**  
 📊 **Objective:** Determine the origin and destination airports with the smallest average flight distance  
 📌 **Dataset:** Flights  
-🔹 **Data used:** Origin and Destination, Average Distance (Miles)  
+🔹 **Data used:** Flights Origin and Destination, Average Distance (Miles)  
 🛠 **Process:** Created a custom measure to calculate the average flight distance, applied a filter to remove zero values   
 🔹 **Final output:** Table visualization in ascending order  
 <p align="center">
@@ -75,15 +75,14 @@ This project showcases a data visualization challenge lab completed after taking
 ### **5️⃣ Busiest Major Joint-Use Airports with Control Towers**  
 📊 **Objective:** Identify the busiest airports that are major, joint-use, and have control towers  
 📌 **Dataset:** Flights & Airports (Merged)  
-🔹 **Data used:** Aircrft origin City, State, Code, Number of Flights  
-🛠 **Process:**  Merged the Flights and Airports datasets, filtering for airports marked as major, joint-use, and with control towers, then visualized the busiest ones using a bar chart. 
+🔹 **Data used:** Aircraft origin City, Airports City, Aircraft Origin State, Airports state, Aircraft origin code, Airports Code  
+🛠 **Process:**  Merged the Flights and Airports datasets, filtering for airports marked as major, joint-use, and with control towers, then visualized the busiest ones 
 <p align="center">
   <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
-
-🔹 **Final output:** Airports Count, State, Facility Types  
+🔹 **Final output:** Bar chart visualization  
 <p align="center">
   <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
 </p>
