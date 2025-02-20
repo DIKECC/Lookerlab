@@ -38,16 +38,10 @@ This project showcases a data visualization challenge lab completed after taking
 📊 **Objective:** Analyze facility type distribution in states with the most airports  
 📌 **Dataset:** Airports  
 🔹 **Key Metrics:** Airports Count, State, Facility Types  
-🛠 **Process:** Used a table visualization with pivoting to display the facility type distribution, sorting by the highest number of airports in each state.    
+🛠 **Process:** I added the key matrics on the data section and pivoted the facility dimension to show the distribution, sorting by the highest number of airports in each state   
+🔹 **Final output:** Table visualization in descending order
 <p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
-</p>
-<br />
-<br />
-
-🔹 **Final output:** Airports Count, State, Facility Types  
-<p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+  <img src="https://i.imgur.com/xehkt7M.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
@@ -57,16 +51,10 @@ This project showcases a data visualization challenge lab completed after taking
 📊 **Objective:** Identify airports and states with the highest percentage of flight cancellations (with over 10,000 flights)  
 📌 **Dataset:** Flights  
 🔹 **Key Metrics:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled  
-🛠 **Process:** Applied a filter for flights exceeding 10,000, then created a table calculation to determine the cancellation percentage and sorted results in descending order.    
+🛠 **Process:** Applied a filter for flights exceeding 10,000, then created a table calculation to determine the cancellation percentage   
+🔹 **Final output:** Table visualization in descending order  
 <p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
-</p>
-<br />
-<br />
-
-🔹 **Final output:** Airports Count, State, Facility Types  
-<p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+  <img src="https://i.imgur.com/cF4uTKv.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
