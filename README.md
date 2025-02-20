@@ -132,6 +132,13 @@ This project showcases a data visualization challenge lab completed after taking
 <br />
 <br />
 
+🔹 **Skill badge:**   
+<p align="center">
+  <img src="https://i.imgur.com/fAtKYhg.png" height="80%" width="80%" alt="Replace"/>
+</p>
+<br />
+<br />
+
 
 
 <!--
