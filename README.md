@@ -79,10 +79,20 @@ This project showcases a data visualization challenge lab completed after taking
 
 
 ### **4️⃣ Smallest Average Distance Between Airports**  
-📊 **Objective:** Identify airport pairs with the shortest average flight distance  
+📊 **Objective:** Determine the origin and destination airports with the smallest average flight distance  
 📌 **Dataset:** Flights  
 🔹 **Key Metrics:** Origin, Destination, Average Distance (Miles)  
-<img src="IMAGE_LINK_HERE" height="80%" width="80%" alt="Smallest Average Distance Between Airports"/>
+🛠 **Process:** Created a custom measure to calculate the average flight distance, applied a filter to remove zero values, and sorted the results in ascending order.    
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
+<br />
+<br />
+
+🔹 **Final output:** Airports Count, State, Facility Types  
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
 
