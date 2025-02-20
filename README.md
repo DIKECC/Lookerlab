@@ -1,6 +1,6 @@
 <h1>Prepare Data for Looker Dashboards and Reports</h1>
 
-This project showcases a data visualization challenge completed using Looker in Google Cloud. The objective was to analyze FAA datasets and create interactive dashboards to help a private plane and helicopter rental company determine optimal rental hub locations.  
+This project showcases a data visualization challenge lab completed after taking the google cloud course "Prepare Data for Looker Dashboards and Reports". The objective was to analyze FAA datasets and create interactive dashboards to help a private plane and helicopter rental company determine optimal rental hub locations.  
 
 **The challenge required:**  
 ✅ Creating multiple **Looks** (custom visualizations) to answer key business questions  
