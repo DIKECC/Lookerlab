@@ -37,8 +37,8 @@ This project showcases a data visualization challenge lab completed after taking
 ### **2️⃣ Facility Type Breakdown for Top States**  
 📊 **Objective:** Analyze facility type distribution in states with the most airports  
 📌 **Dataset:** Airports  
-🔹 **Data used:** Airports Count, State, Facility Types  
-🛠 **Process:** I Pivoted the facility dimension to show the distribution   
+🔹 **Data used:** Airports Count, Airports State, Airports Facility Types  
+🛠 **Process:** I Pivoted the facility type dimension to show the distribution   
 🔹 **Final output:** Table visualization in descending order
 <p align="center">
   <img src="https://i.imgur.com/xehkt7M.png" height="80%" width="80%" alt="Replace"/>
