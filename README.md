@@ -87,22 +87,15 @@ This project showcases a data visualization challenge lab completed after taking
 ### **6️⃣ Dashboard: Consolidated Insights**  
 📊 **Objective:** Combine all visualizations into a single interactive dashboard for presentation  
 📌 **Dataset:** Airports, Flights  
-
 🛠 **Process:** Added all created Looks and the merged results visualization to a new dashboard, organizing them for easy navigation and insights.  
-<p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
-</p>
-<br />
-<br />
-
 🔹 **Final output:** Interactive dashboard with all visualizations  
 <p align="center">
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+  <img src="https://i.imgur.com/YgutzpS.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
 
-🔹 **Skill badge:**   
+🔹 **Skill badge:**  The Google Skill Badge proves hands-on experience with Looker in Google Cloud  
 <p align="center">
   <img src="https://i.imgur.com/fAtKYhg.png" height="80%" width="80%" alt="Replace"/>
 </p>
