@@ -25,7 +25,7 @@ This project showcases a data visualization challenge lab completed after taking
 📊 **Objective:** Identify states and cities with the highest number of heliports  
 📌 **Dataset:** Airports  
 🔹 **Key Metrics:** Airports Count, State, Facility Types  
-🛠 **Process:** Used a table visualization with pivoting to display the facility type distribution, sorting by the highest number of airports in each state.  
+🛠 **Process:** Created a table visualization filtering only for heliports, then grouped results by City and State, sorting by the highest number of airports.  
 <p align="center">
   <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
 </p>
@@ -44,11 +44,17 @@ This project showcases a data visualization challenge lab completed after taking
 📊 **Objective:** Analyze facility type distribution in states with the most airports  
 📌 **Dataset:** Airports  
 🔹 **Key Metrics:** Airports Count, State, Facility Types  
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+🛠 **Process:** Used a table visualization with pivoting to display the facility type distribution, sorting by the highest number of airports in each state.    
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
+
 🔹 **Final output:** Airports Count, State, Facility Types  
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+<p align="center">
+  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
+</p>
 <br />
 <br />
 
