@@ -24,7 +24,7 @@ This project showcases a data visualization challenge lab completed after taking
 ### **1️⃣ Most Heliports by State**  
 📊 **Objective:** Identify the top 10 states and cities with the highest number of heliports  
 📌 **Dataset:** Airports  
-🔹 **Data used:** Airports Count, State, Facility Types  
+🔹 **Data used:** Airports Count, Airport State, Airport City  
 🛠 **Process:** I filterd only for heliport and limited to 10  
 🔹 **Final output:** Table visualization in descending order
 <p align="center">
@@ -75,7 +75,7 @@ This project showcases a data visualization challenge lab completed after taking
 ### **5️⃣ Busiest Major Joint-Use Airports with Control Towers**  
 📊 **Objective:** Identify the busiest airports that are major, joint-use, and have control towers  
 📌 **Dataset:** Flights & Airports (Merged)  
-🔹 **Data used:** City, State, Code, Number of Flights  
+🔹 **Data used:** Aircrft origin City, State, Code, Number of Flights  
 🛠 **Process:**  Merged the Flights and Airports datasets, filtering for airports marked as major, joint-use, and with control towers, then visualized the busiest ones using a bar chart. 
 <p align="center">
   <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Replace"/>
