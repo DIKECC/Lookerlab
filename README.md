@@ -52,7 +52,7 @@ This project showcases a data visualization challenge lab completed after taking
  **Dataset:** Flights  
  **Data used:** Aircraft Origin City, Aircraft Origin State, Percentage of Flights Cancelled, Flights Count, Flights Details Cancelled Count   
  **Process:** I filtered for flights exceeding 10,000, then created a table calculation to determine the cancellation percentage   
- **Final output:** Table visualization in descending order with Flight count and Flight Details Cancelled Count made invinsible    
+ **Final output:** Table visualization in descending order with Flight count and Flight Details Cancelled Count made invisible    
 <p align="center">
   <img src="https://i.imgur.com/cF4uTKv.png" height="80%" width="80%" alt="Replace"/>
 </p>
